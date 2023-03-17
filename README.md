@@ -319,63 +319,63 @@ Overall, the project areas in SdM are diverse and interdisciplinary, and offer m
 ## Microsoft 
 
 SEA:ME partners with Microsoft to develop four proof-of-concept projects focused on V2C, digital trip book, airport experience, and MaaS topics. The projects will use Azure cloud solutions for data storage and analysis, while SEA:ME provides expertise in SdV, software development, and UX design. The partnership aims to provide students with hands-on, project-based learning opportunities in the automotive industry. Additionally, SEA:ME is developing educational projects utilizing Azure IoT solutions for connected vehicles and personalized driving recommendations. The partnership offers a unique opportunity for students to gain practical experience in automotive and mobility software engineering and cloud computing.
-- ![SEA:ME with MSFT](Partners/MSFT.md)
+- ![SEA:ME with MSFT](./Partners/MSFT.md)
 
 
 
 ## CARIAD 
 
 SEA:ME can integrate CARIAD's latest work in the automotive and mobility sectors, including VW.OS, VW.AC, The Big Loop, intelligent cockpit, automated driving, and data-driven development. This collaboration can lead to exciting educational projects that benefit both SEA:ME students and CARIAD's research and development initiatives. Projects may include developing applications on VW.OS, services on VW.AC, analyzing data through The Big Loop, designing intelligent cockpits, developing automated driving systems, and cybersecurity. Key contacts for strategic collaboration include Thomas Fleischmann and Dr. Florian Meyer.
-- ![SEA:ME with CARIAD](Partners/CARIAD.md)
+- ![SEA:ME with CARIAD](./Partners/CARIAD.md)
 
 
 
 ## MBition 
 
 The collaboration with MBition aims to bridge the gap between industry and academia by introducing a range of exciting projects and initiatives to the SEA:ME curriculum. The partnership will focus on developing software-defined vehicles, building new user experience features, re-defining software integration processes, exploring the potential of the MBOS platform, and cybersecurity and safety. The collaboration will provide hands-on, project-based learning opportunities for students, enabling them to gain practical experience with cutting-edge technologies and tools used in the automotive industry. The collaboration will require at least four developers, with one developer needed for each of the four potential work areas. Fatih Tekin and Christoph Möhren are the key contacts for this strategic collaboration.
-- ![SEA:ME with MBition](Partners/MBition.md)
+- ![SEA:ME with MBition](./Partners/MBition.md)
 
 
 
 ## T-Systems 
 
 SEA:ME and T-Systems have partnered to enhance the automotive and mobility software engineering education curriculum by providing students with hands-on, project-based learning opportunities. The collaboration aims to develop educational projects on tele-operated driving, see-through technology, software-defined cars, digital twin tech, and cloud-based services. The partnership offers students the chance to work with advanced tools and technologies relevant to the industry. The collaboration involves key contacts from both organizations and requires at least one developer for each project.
-- ![SEA:ME with T-Systems](Partners/T-Systems.md)
+- ![SEA:ME with T-Systems](./Partners/T-Systems.md)
 
 
 
 ## Bosch 
 
 Bosch is a global technology company that is heavily involved in the automotive software engineering field, particularly in the development of advanced driver assistance systems (ADAS) and autonomous driving systems. The two entities could collaborate on potential work areas such as ADAS development, vehicle communication, cloud-based services, cybersecurity, and autonomous vehicles. Potential educational projects that could be developed include developing a lane departure warning system, automated emergency braking system, secure over-the-air (OTA) software updating system, and autonomous vehicle control systems. Bosch's Automotive Electronics division, Connected Mobility Solutions division, and Bosch Center for Artificial Intelligence (BCAI) are potential strategic collaboration partners, while key contacts include Alexander Eckert, Jan Bechtold, Ansgar Lindwedel, Dirk Slama, Philipp Mundhenk, Anke Giliard, and Michael Herman.
-- ![SEA:ME with Bosch](Partners/Bosch.md)
+- ![SEA:ME with Bosch](./Partners/Bosch.md)
 
 
 
 ## Capgemini 
 
 Capgemini and SEA:ME could collaborate on developing educational projects for students in the automotive and mobility sector. Capgemini's expertise in personalization features, voice assistant systems, assisted driving technologies, software-defined vehicles, and mobility as a service (MaaS) could be shared to develop hands-on projects. The collaboration could lead to educational projects development such as personalization in MaaS using K8s and cloud solutions, a voice assistant system for cars, and software-defined steering, braking, and acceleration systems. Key contacts for the collaboration are Nino Nikolaishvili and Amir Sanei.
-- ![SEA:ME with Capgemini](Partners/Capgemini.md)
+- ![SEA:ME with Capgemini](./Partners/Capgemini.md)
 
 
 
 ## Digiteq Automotive 
 
 SEA:ME and Digiteq Automotive have partnered to provide innovative and practical projects for automotive and mobility software engineering, such as developing park, adaptive cruise, and reverse assistance systems, and using advanced technologies like computer vision and machine learning to develop safety-critical software components. The partnership aims to drive exciting projects that benefit the industry and SEA:ME participants. The potential work areas include park assistance, adaptive cruise control, reverse assistance, HiL testing systems, test automations using robotic arms, perception and maneuvering, Autosar design, microstack design, stereovision perception, ADAS with trailer, driver emotion detection systems, and low hazard detection systems. The program aims to provide students with the skills and knowledge to design and implement complex systems using sensors, cameras, and control algorithms, integrate multiple sensors and control modules, use computer vision algorithms to detect and classify objects in real-time, and validate and optimize control algorithms using simulation tools and techniques.
-- ![SEA:ME with Digiteq Automotive](Partners/Digiteq.md)
+- ![SEA:ME with Digiteq Automotive](./Partners/Digiteq.md)
 
 
 
 ## MicroNova 
 
 The collaboration with MicroNova can provide students with hands-on experience in advanced automotive testing and simulation technologies. Potential educational projects include HiL simulation for ADAS, EXAM test automation for autonomous driving systems, virtualization SiL for connected vehicle testing, and integration of HiL and SiL technologies. Through these projects, students can gain exposure to industry-leading technologies and develop skills highly relevant to the automotive sector. Each project has specific requirements and benefits for students, including learning about the latest trends and developments in automotive technology, developing skills in building and testing various components, and gaining hands-on experience in testing different automotive systems.
-- ![SEA:ME with MicroNova](Partners/MicroNova.md)
+- ![SEA:ME with MicroNova](./Partners/MicroNova.md)
 
 
 
 ## msg DAVID
-- ![SEA:ME with msgDAVID](Partners/msgDAVID.md)
+- ![SEA:ME with msgDAVID](./Partners/msgDAVID.md)
 
 
 ## Eclipse Foundation 
-- ![SEA:ME with Eclipse Foundation](Partners/EF.md)
+- ![SEA:ME with Eclipse Foundation](./Partners/EF.md)
 
