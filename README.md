@@ -1,17 +1,47 @@
-# SdV & SdM at SEA:ME
 
-
-# Index
-
-
-[TOC]
-
+- [Introduction](#introduction)
+- [SdV \& SdM](#sdv--sdm)
+- [What is a software defined vehicle?](#what-is-a-software-defined-vehicle)
+  - [Project areas in SdV](#project-areas-in-sdv)
+    - [Vehicle Control System](#vehicle-control-system)
+    - [Autonomous driving technology](#autonomous-driving-technology)
+    - [Vehicle-to-Everything (V2X) communication](#vehicle-to-everything-v2x-communication)
+    - [Human-machine interface (HMI)](#human-machine-interface-hmi)
+    - [Cybersecurity](#cybersecurity)
+    - [Electrification](#electrification)
+    - [Data Analytics](#data-analytics)
+    - [Software-defined vehicle architecture](#software-defined-vehicle-architecture)
+- [What is a software defined mobility?](#what-is-a-software-defined-mobility)
+  - [Project areas in SdM](#project-areas-in-sdm)
+    - [Intelligent Transportation Systems (ITS)](#intelligent-transportation-systems-its)
+    - [Mobility-as-a-Service (MaaS)](#mobility-as-a-service-maas)
+    - [Connected Vehicles](#connected-vehicles)
+    - [Autonomous Vehicles](#autonomous-vehicles)
+    - [Electric Vehicles (EVs)](#electric-vehicles-evs)
+    - [Smart Cities](#smart-cities)
+- [Emerging Plans with Partners](#emerging-plans-with-partners)
+  - [Microsoft](#microsoft)
+  - [CARIAD](#cariad)
+  - [MBition](#mbition)
+  - [T-Systems](#t-systems)
+  - [Bosch](#bosch)
+  - [Capgemini](#capgemini)
+  - [Digiteq Automotive](#digiteq-automotive)
+  - [MicroNova](#micronova)
+  - [msg DAVID](#msg-david)
+  - [Eclipse Foundation](#eclipse-foundation)
 
 
 # Introduction
 
 **SEA:ME** (Software Engineering in Automotive & Mobility Ecosystems) is an open educational program that provides learners with the skills and knowledge needed to excel in the field of software-defined mobility (SdM) and software-defined vehicles (SdV). The program is designed for learners of all backgrounds, including high school students, apprenticeships students, university students, and industry professionals. It includes different learning modules (courses), simulation platforms, case studies, and open data sets, as well as project-based learning experiences and networking events. SEA:ME leverages open educational resources and platforms to create a more accessible and equitable learning experience, while also fostering collaboration and innovation in the field. By completing the program, learners will be equipped with the skills and knowledge needed to excel in the rapidly evolving field of SdM and SdV, and will be prepared for careers in this exciting and dynamic industry.
 
+# SdV & SdM
+Software-defined vehicles (SdV) and software-defined mobility (SdM) are related concepts but they are not the same thing.
+- SdV refers specifically to the integration of software and digital technologies into the design and operation of vehicles. This includes the use of sensors, cameras, connectivity, and other digital technologies to create smarter, more efficient, and more personalized vehicles. SdV also includes the development of autonomous vehicles that can operate without human input.
+- On the other hand, SdM refers to the broader concept of using software and digital technologies to optimize all aspects of transportation and mobility, not just vehicles. SdM encompasses a wide range of technologies and approaches, including intelligent transportation systems (ITS), mobility-as-a-service (MaaS), connected vehicles, electric vehicles (EVs), and autonomous vehicles (AVs), as well as infrastructure, data analytics, and digital platforms that enable smarter and more efficient transportation systems.
+  
+In summary, while SdV is a subset of SdM, it focuses specifically on the integration of software and digital technologies into the design and operation of vehicles, while SdM is a broader concept that encompasses all aspects of transportation and mobility, including vehicles, infrastructure, and digital platforms.
 
 # What is a software defined vehicle? 
 
@@ -41,8 +71,6 @@ Introducing the concept of software-defined vehicles in educational projects can
 
 
 ### Vehicle Control System
-
-
 
 1. Building a simple vehicle control system
     * Requirements: Students will build a simple vehicle control system using an Arduino microcontroller and various sensors such as accelerometers and gyroscopes. The system will be able to read sensor data and control a small model vehicle through different maneuvers. The project will also involve programming the control system to manage vehicle dynamics such as traction control and anti-lock braking.
@@ -354,3 +382,6 @@ The collaboration with MicroNova can provide students with hands-on experience i
 ## Eclipse Foundation 
 
 
+
+
+[def]: #what-is-a-software-defined-vehicle
