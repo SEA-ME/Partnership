@@ -66,7 +66,7 @@ In addition to ADAS and autonomous driving systems, Bosch is also working on oth
     * Philipp Mundhenk - [https://www.linkedin.com/in/philipp-mundhenk-1849b521/](https://www.linkedin.com/in/philipp-mundhenk-1849b521/)
     * **Anke Giliard** - [https://www.linkedin.com/in/anke-giliard-141547184/](https://www.linkedin.com/in/anke-giliard-141547184/)
     * Michael Herman - [https://www.linkedin.com/in/michael-herman-ba8447214/](https://www.linkedin.com/in/michael-herman-ba8447214/)
-* Collaboration on creating educational learning projects on Eclipse Leda + Velocitas (Eclipse Foundation SdV group project contributed by Bosch & ETAS)
+* **Collaboration on creating educational learning projects on Eclipse Leda + Velocitas** (Eclipse Foundation SdV group project contributed by Bosch & ETAS)
     * An educational mobility learning project that aims to teach students how to build and program a miniature self-driving car using Raspberry Pi and Eclipse Leda and Velocitas. This project is intended to be a hands-on experience that covers different aspects of software-defined vehicles, including system image creation, software development, and hardware integration.
     * Identify potential contributors of Eclipse Leda & Velocitas to jointly develope an educational training content in SEA:ME
       * Gabriela Kreyßing(ETAS) - https://www.linkedin.com/in/gabriela-krey%C3%9Fing-1a349a63/
