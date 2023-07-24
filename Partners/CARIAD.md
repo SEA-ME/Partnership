@@ -1,16 +1,19 @@
 # SEA:ME with CARIAD
 
+- [SEA:ME with CARIAD](#seame-with-cariad)
+  - [Overview](#overview)
+  - [Potential work areas](#potential-work-areas)
+  - [Potential educational projects \& requirements](#potential-educational-projects--requirements)
+  - [Strategic collaboration](#strategic-collaboration)
 
-# Overview
+## Overview
 
 SEA:ME is an open education curriculum program focused on automotive and mobility software engineering. The program is designed to provide hands-on, project-based learning opportunities for the next generation of automotive software engineers.
 
 SEA:ME and CARIAD can collaborate to introduce CARIAD's latest work in automotive and mobility sectors, such as VW.OS, VW.AC, The Big Loop, intelligent cockpit, automated driving, and data-driven development, into SEA:ME's hands-on project-based curriculum. This collaboration can result in developing exciting educational projects that can benefit both SEA:ME students and CARIAD's research and development initiatives.
 
 
-# Potential work areas
-
-
+## Potential work areas
 
 1. Developing Applications on VW.OS - Students can learn how to develop and test applications on VW.OS, which is the software basis that coordinates all types of applications within Volkswagen vehicles. Projects could include **developing a new infotainment app** or integrating an existing app onto VW.OS.
 2. Developing Services on VW.AC - Students can learn how to develop and test services on VW.AC, which provides a safe and scalable foundation for connected and autonomous vehicles. Projects could include **developing a new remote service** or integrating an existing service onto VW.AC.
@@ -20,9 +23,7 @@ SEA:ME and CARIAD can collaborate to introduce CARIAD's latest work in automotiv
 6. Cybersecurity - Students can learn about cybersecurity and how it applies to the development of automotive software. Projects could include **developing and testing new security measures to protect Volkswagen vehicles from cyber threats**.
 
 
-# Potential educational projects & requirements
-
-
+## Potential educational projects & requirements
 
 1. **VW.OS-based Application Development**: The project will involve developing applications for the Volkswagen Operating System (VW.OS), which will be the software basis for Volkswagen's upcoming vehicles. The project will require students to understand the architecture of VW.OS, learn the development process for VW.OS-based applications, and develop a functional application that runs on VW.OS.
 2. **Automated Driving Simulation**: This project will involve developing a simulation environment for automated driving systems. Students will learn the principles of automated driving systems, simulate various driving scenarios using CARIAD's automated driving system, and test the system's performance. 
@@ -33,11 +34,12 @@ SEA:ME and CARIAD can collaborate to introduce CARIAD's latest work in automotiv
 7. **Cybersecurity** in Automotive Software: This project will involve developing a cybersecurity framework for automotive software. Students will learn about the various cybersecurity threats to automotive software, develop a cybersecurity framework, and test the framework against various attacks.
 
 
-# Strategic collaboration
-
-
+## Strategic collaboration
 
 * Key contacts
     * Thomas Fleischmann - [https://www.linkedin.com/in/thomas-fleischmann/](https://www.linkedin.com/in/thomas-fleischmann/)
     * Dr. Florian Meyer - [https://www.linkedin.com/in/dr-florian-meyer-%E9%BA%A6%E5%B0%94%E7%A6%8F%E5%8D%9A%E5%A3%AB-11a38857/](https://www.linkedin.com/in/dr-florian-meyer-%E9%BA%A6%E5%B0%94%E7%A6%8F%E5%8D%9A%E5%A3%AB-11a38857/)
-    * 
+    * Thomas Sauer - https://www.linkedin.com/in/thomas-sauer-11001724/
+    * Alexander Krien - https://www.linkedin.com/in/akrien/
+    * Cedric Liot - https://www.linkedin.com/in/cedric-liot/
+    * Jan Hegewald - https://www.linkedin.com/in/jan-hegewald-berlin/

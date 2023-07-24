@@ -1,16 +1,19 @@
 # SEA:ME with T-Systems
 
+- [SEA:ME with T-Systems](#seame-with-t-systems)
+  - [Overview](#overview)
+  - [Potential work areas](#potential-work-areas)
+  - [Potential educational projects \& requirements](#potential-educational-projects--requirements)
+  - [Strategic collaboration](#strategic-collaboration)
 
-# Overview
+## Overview
 
 SEA:ME is an open education curriculum program focused on automotive and mobility software engineering. The program is designed to provide hands-on, project-based learning opportunities for the next generation of automotive software engineers.
 
 T-Systems provides global ICT services for the automotive and mobility industry, including remote-controlled driving, see-through technology, and software-defined cars. The collaboration with SEA:ME aims to enhance the students' learning experience by developing educational projects on tele-operated driving, see-through tech, software-defined cars, digital twin tech, and cloud-based services. This partnership offers students the chance to work with advanced tools and technologies relevant to the industry.
 
 
-# Potential work areas
-
-
+## Potential work areas
 
 1. Tele-Operated Driving: SEA:ME could partner with T-Systems to develop projects focused on tele-operated driving, which involves controlling a vehicle remotely using advanced software and communication technologies. Students could work on developing and testing **tele-operated driving systems** using T-Systems' hardware and software tools.
 2. See-Through Technology: SEA:ME could collaborate with T-Systems to explore ways to improve visibility and safety on the road using see-through technology, which enables vehicles to **"see" through obstacles**(eg. the car/truck in front) by processing cameras and other sensors data coming from those obstacles. This could include developing projects that use T-Systems' connectivity and communication solutions to enable safer and more efficient transportation.
@@ -19,9 +22,7 @@ T-Systems provides global ICT services for the automotive and mobility industry,
 5. Cloud-Based Services: SEA:ME could partner with T-Systems to develop projects that leverage cloud-based services to enhance the performance and functionality of automotive software systems. For example, students could develop projects that utilize T-Systems' cloud-based analytics tools to **optimize vehicle performance, improve fuel efficiency, or reduce emissions**.
 
 
-# Potential educational projects & requirements
-
-
+## Potential educational projects & requirements
 
 1. **Tele-Operated Driving (Remote Controlled Car)**:
     1. Develop a tele-operated driving system that allows a remote operator to control a vehicle in real-time using a video feed and communication link.
@@ -45,14 +46,10 @@ T-Systems provides global ICT services for the automotive and mobility industry,
     16. Conduct testing and validation to ensure the system is secure and reliable
 
 
-# Strategic collaboration
-
-
+## Strategic collaboration
 
 * Key contacts
     * Christian Hort - [https://www.linkedin.com/in/christianhort/](https://www.linkedin.com/in/christianhort/)
     * Lutz Garschke - [https://www.linkedin.com/in/lutzgarschke/](https://www.linkedin.com/in/lutzgarschke/)
     * Tobias Kilian - [https://www.linkedin.com/in/tobias-kilian/](https://www.linkedin.com/in/tobias-kilian/)
     * Stefan Schumacher - [https://www.linkedin.com/in/stefan-schumacher-396809a7/](https://www.linkedin.com/in/stefan-schumacher-396809a7/)
-* Developers
-    * Need at least 1 in each projects above (4+ developers)
