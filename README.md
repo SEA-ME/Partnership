@@ -1,4 +1,4 @@
-# SEA:ME Partnerships
+# SEA:ME Partnership
 
 - [SEA:ME Partnerships](#seame-partnerships)
   - [Introduction](#introduction)
